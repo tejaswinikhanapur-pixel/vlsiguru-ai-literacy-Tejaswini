@@ -16,6 +16,6 @@
 | **What I will do differently next week** | Execute my 7-step personal verification protocol immediately rather than relying on initial read-throughs. |
 
 ## Notes & Takeaways
-* Established my public GitHub repository structure (`vlsiguru-ai-literacy-<name>`).
+* Established my public GitHub repository structure (`https://github.com/tejaswinikhanapur-pixel/vlsiguru-ai-literacy-Tejaswini.git`).
 * Initiated Python Runway practice with CS50P Week 0 (Functions & Variables).
 * Completed all core assessment tasks using the A-E-V-R framework.
