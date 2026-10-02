@@ -1,12 +1,26 @@
 # Week 01 Verification Log
 
-| Date | Question / Claim Checked | AI Tool | Claim Checked | Verification Source / Experiment | Result |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 2026-09-28 | Q4: Speed of light accuracy | ChatGPT / Gemini | Claimed speed is ~186,282 miles/sec | NIST Physical Measurement Laboratory Standards | Verified: Exact value is 186,282.397 mi/s. Both models provided accurate approximations. |
-| 2026-09-29 | Q5: Technical specification lookup | ChatGPT | Syntax for Python string formatting | Official Python 3.12 Documentation | Verified: AI code sample matched standard library documentation. |
-| 2026-09-30 | Q8: AI in camera autofocus | Claude | Smartphone uses ML neural net for face tracking | Manufacturer Whitepaper / Tech Specs | Verified: Modern smartphones use deep learning models for subject detection. |
+| Date       | Question / Claim Checked     | AI Tool          | Claim Checked                                                                     | Verification Source / Experiment                      | Result                                                                   |
+| ---------- | ---------------------------- | ---------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ |
+| 2026-09-28 | Q4: Speed of light           | ChatGPT / Gemini | AI responses gave approximately 186,282 miles per second                          | NIST Physical Measurement Laboratory reference        | Verified: The responses were consistent with the accepted value.         |
+| 2026-09-29 | Q5: Python formatting        | ChatGPT          | Python string-formatting syntax provided by the AI                                | Official Python documentation                         | Verified: The example was consistent with the documented syntax.         |
+| 2026-09-30 | Q8: AI in smartphone cameras | Claude           | Modern smartphones can use machine-learning models for subject and face detection | Manufacturer technical documentation / specifications | Verified: The claim was supported by the technical information reviewed. |
 
 ## Verification Notes
-* **What the AI got right:** Basic definitions, clear conceptual explanations, and syntax examples for standard libraries.
-* **What it left unsupported / struggled with:** Specific citations without live web search access; generated references can sometimes sound plausible but be inaccurate.
-* **Key lesson:** Language fluency is an indicator of model capability, not factual accuracy. Always verify specific facts against primary sources.
+
+**What the AI got right:**
+
+* Basic AI and ML definitions were explained clearly.
+* The differences between AI, ML, DL, GenAI, and agents were easy to understand.
+* Standard programming examples and syntax were generally accurate.
+* The AI was useful for simplifying difficult technical concepts.
+
+**What required additional checking:**
+
+* Specific technical claims required confirmation from reliable sources.
+* References suggested by AI should not automatically be assumed to be accurate.
+* Technical information can change over time, so current documentation may be necessary.
+
+**Key Lesson:**
+
+AI can provide fast and useful explanations, but a confident or well-written answer does not guarantee that it is correct. Important technical information should be checked using reliable documentation, experiments, or primary sources before being used in an engineering task.
